@@ -1,0 +1,1 @@
+export { CardVantagem } from "./CardVantagem";

@@ -1,0 +1,1 @@
+export { Vantagens } from "./Vantagens";
