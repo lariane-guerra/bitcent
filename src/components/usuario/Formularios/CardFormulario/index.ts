@@ -1,0 +1,1 @@
+export { CardFormulario } from "./CardFormulario";
